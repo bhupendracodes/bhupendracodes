@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/bhupendraspeaks
 [instagram]: https://instagram.com/bhupendraspeaks_
 [linkedin]: https://linkedin.com/in/
-[xda]: https://forum.xda-developers.com/
+[xda]: https://forum.xda-developers.com/m/bhupendra111.7350618/
