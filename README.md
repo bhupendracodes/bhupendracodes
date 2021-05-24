@@ -14,7 +14,7 @@
 [<img align="left" alt=" | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 <br />
-### Github Stats
+
 
 <img alt="Bhupendra Pratap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhupendraDottxt&show_icons=true&count_private=true" />
 
