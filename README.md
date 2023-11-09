@@ -22,5 +22,5 @@
 [facebook]: https://fb.me/bhupendrapratap999
 [twitter]: https://twitter.com/bhupendraspeaks
 [instagram]: https://instagram.com/bhupendraspeaks_
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/bhupendra-pratap-7b1484202
 [xda]: https://forum.xda-developers.com/m/bhupendra111.7350618/
